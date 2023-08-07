@@ -39,9 +39,9 @@ They think, research, create, and connect practical realizations through the web
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:survd0404@gmail.com)](survd0404@gmail.com)
   [![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://code-sumin.tistory.com/)
-  <!--[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/f3661abb4e6c426dbfa82fa52aed60ed)](https://www.notion.so/f3661abb4e6c426dbfa82fa52aed60ed)
--->
-
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://subsequent-cough-ba2.notion.site/2e487be90dcf4fc09653884f88c88b4a?pvs=4
+)](https://subsequent-cough-ba2.notion.site/2e487be90dcf4fc09653884f88c88b4a?pvs=4
+)
 
 <!--
 **Hongmebuilding/Hongmebuilding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
