@@ -1,10 +1,7 @@
 ### Hi Welcome, i'm SUMIN LEE 👋
 
-#### WEB Developer
-Back-end developers contribute to creating beneficial social values. 
-They think, research, create, and connect practical realizations through the web.
-
-
+못 먹어고 고 입니다.
+苦心不悔
 🛠️ Stacks
 
 알고리즘:[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
