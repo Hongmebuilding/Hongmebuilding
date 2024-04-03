@@ -1,7 +1,6 @@
 ### Hi Welcome, i'm SUMIN LEE 👋
 
-못 먹어고 고 입니다.
-苦心不悔
+苦心不悔<br>
 🛠️ Stacks
 
 알고리즘:[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
