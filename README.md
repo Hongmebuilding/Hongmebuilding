@@ -9,7 +9,7 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://subsequent-cough-ba2.notion.site/2e487be90dcf4fc09653884f88c88b4a?pvs=4
 )](https://subsequent-cough-ba2.notion.site/2e487be90dcf4fc09653884f88c88b4a?pvs=4
 )
-[![GitBook Badge](https://img.shields.io/badge/Gitbook-%23BBDDE5?style=flat-square&logo=Gitbook&logoColor=white)](https://leesumins-organization.gitbook.io/todaystudy/)
+[![GitBook Badge](https://img.shields.io/badge/Gitbook-%23BBDDE5?style=flat-square&logo=Gitbook&logoColor=white)](https://leesumins-organization.gitbook.io/til/)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=survd0404)](https://solved.ac/survd0404/)
 <!--
