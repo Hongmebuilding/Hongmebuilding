@@ -11,7 +11,6 @@
 )
 [![GitBook Badge](https://img.shields.io/badge/Gitbook-%23BBDDE5?style=flat-square&logo=Gitbook&logoColor=white)](https://leesumins-organization.gitbook.io/til/)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=survd0404)](https://solved.ac/survd0404/)
 <!--
 **Hongmebuilding/Hongmebuilding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
