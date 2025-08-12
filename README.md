@@ -2,7 +2,7 @@
 
 苦心不悔<br>
 
-🐱 About Me
+🐱 About Me<br>
 정보통신공학 졸업에 학창 시절 다양한 언어를 배워왔으며(파이선,자바,자바스크립트,리눅스,etc) 자바로 첫 경력을 시작하여 지금은 ai 공부에 매진하고 있는 중..
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:survd0404@gmail.com)](survd0404@gmail.com)
